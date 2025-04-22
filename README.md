@@ -46,7 +46,7 @@ If you are interested in these things and aren't sure what to do next, **ask and
 John Doe           - *A witty remark*  
 Jane Doe           - *A wittier remark*  
 John Griffiths     - *An even wittier remark*
-
+stootsmax  - *test remark*
 
 ### From your local github clone
 
