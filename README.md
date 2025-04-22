@@ -45,7 +45,8 @@ If you are interested in these things and aren't sure what to do next, **ask and
 
 John Doe           - *A witty remark*  
 Jane Doe           - *A wittier remark*  
-John Griffiths     - *An even wittier remark*
+John Griffiths     - *An even wittier remark*  
+Kat Manning        *'The pursuit of truth and beauty is a sphere of actvity in which we are permitted to remain children all our lives' AE*   
 
 
 ### From your local github clone
