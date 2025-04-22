@@ -46,7 +46,7 @@ If you are interested in these things and aren't sure what to do next, **ask and
 John Doe           - *A witty remark*  
 Jane Doe           - *A wittier remark*  
 John Griffiths     - *An even wittier remark*  
-Yasaswin Palukuri   - *Hey there*  
+Yasaswin Palukuri   - *No remarks*  
 
 
 ### From your local github clone
