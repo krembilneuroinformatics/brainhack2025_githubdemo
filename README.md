@@ -41,12 +41,16 @@ If you are interested in these things and aren't sure what to do next, **ask and
 
 (process: fork this repo, create a new branch, edit this README doc in the browser, make a pull request to this repo)
 
-**YOUR NAME**      -  **YOUR COMMENT**
+**YOUR NAME**      -  **YOUR COMMENT**  
 
+Stefen Harris      -  The wittiest remark  
 John Doe           - *A witty remark*  
 Jane Doe           - *A wittier remark*  
 John Griffiths     - *An even wittier remark*  
 Mustafa Bhatti     - *wittiest comment*  
+Jane Doe           - *A wittier remark*   
+John Griffiths     - *An even wittier remark*  
+Burntoutgradstudent - slay  
 
 
 ### From your local github clone
@@ -57,6 +61,7 @@ Mustafa Bhatti     - *wittiest comment*
 
 John Griffiths     - *Urgh not that guy again sigh*  
 Mustafa Bhatti     - *awesome sauce*
+Bilbo              - *no new ideas*  
 
 
 
