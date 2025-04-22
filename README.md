@@ -45,10 +45,11 @@ If you are interested in these things and aren't sure what to do next, **ask and
 
 Stefen Harris      -  The wittiest remark  
 John Doe           - *A witty remark*  
+Jane Doe           - *A wittier remark*  
+John Griffiths     - *An even wittier remark*  
+Mustafa Bhatti     - *wittiest comment*  
 Jane Doe           - *A wittier remark*   
 John Griffiths     - *An even wittier remark*  
-
-
 Burntoutgradstudent - slay  
 
 
@@ -59,8 +60,8 @@ Burntoutgradstudent - slay
 **YOUR NAME**      -  **YOUR COMMENT**
 
 John Griffiths     - *Urgh not that guy again sigh*  
+Mustafa Bhatti     - *awesome sauce*
 Bilbo              - *no new ideas*  
-
 
 
 
