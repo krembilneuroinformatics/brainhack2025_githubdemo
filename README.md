@@ -41,8 +41,8 @@ If you are interested in these things and aren't sure what to do next, **ask and
 
 (process: fork this repo, create a new branch, edit this README doc in the browser, make a pull request to this repo)
 
-**YOUR NAME**      -  **YOUR COMMENT**
-
+**YOUR NAME**      -  **YOUR COMMENT**  
+**andrew sedrak**      -  **andrew was here**  
 John Doe           - *A witty remark*  
 Jane Doe           - *A wittier remark*  
 John Griffiths     - *An even wittier remark*
