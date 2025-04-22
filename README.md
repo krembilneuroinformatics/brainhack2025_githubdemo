@@ -49,6 +49,9 @@ Jane Doe           - *A wittier remark*
 John Griffiths     - *An even wittier remark*  
 
 
+Burntoutgradstudent - slay  
+
+
 ### From your local github clone
 
 (process: clone your fork, make a branch, edit this README doc in the terminal, commit, push to your fork, submit make a pull request to this repo)
