@@ -45,7 +45,8 @@ If you are interested in these things and aren't sure what to do next, **ask and
 
 John Doe           - *A witty remark*  
 Jane Doe           - *A wittier remark*  
-John Griffiths     - *An even wittier remark*
+John Griffiths     - *An even wittier remark*  
+Yasaswin Palukuri   - *Hey there*  
 
 
 ### From your local github clone
@@ -55,7 +56,7 @@ John Griffiths     - *An even wittier remark*
 **YOUR NAME**      -  **YOUR COMMENT**
 
 John Griffiths     - *Urgh not that guy again sigh*  
-
+Yasaswin Palukuri  - *Let's learn new things*  
 
 
 
