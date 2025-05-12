@@ -45,8 +45,8 @@ If you are interested in these things and aren't sure what to do next, **ask and
 
 Stefen Harris      -  The wittiest remark  
 John Doe           - *A witty remark*  
-Jane Doe           - *A wittier remark*   
-John Griffiths     - *An even wittier remark*  
+John Griffiths     - *An even wittier remark*   
+Test - **Test**  
 
 
 Burntoutgradstudent - slay  
